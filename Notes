@@ -1,0 +1,38 @@
+English:
+Window manager: i3
+Screenshots: flameshot
+Bar: polybar
+Emails: thunderbird
+Media player: VLC
+Web browser: Firefox
+Battery: cbatticon
+Internet connection: networkctl
+Git ;)
+Code editor: Vscode/Nvim
+wallpapers: feh
+Entretainment: ani-cli
+Terminal: lxterminal
+Shell:Zsh
+music: spotyfi
+
+Notes:
+Remember If you have a problem with icons not displaying in zsh change the font last time that fixed the problem, When you install arch remember to do not assign more space to home than / that was a bruh moment, network ctl for graphical connection to internet
+Espanol:
+Administrador de ventanas: i3
+Capturas de pantalla: flameshot
+Barra de tareas: polybar
+Correos electronicos: Thunderbird
+Reproductor de video: VLC
+Navegador: Firefox
+Bateria: cbatticon
+Conexion: networkctl
+Git
+Editor de codigo: VScode/NVim
+Fondo de pantalla: Feh
+Anime: ani-cli
+Terminal: lxterminal
+shell:zsh
+Music:spotify
+
+Notas:
+Recuerda si tienes problema con los iconos en zsh cambia la fuente eso arregla el problema, cuando isntales arch recuerda no asignar poco espacio a / y mucho a home eso fue un momento XD, y por ultimo network ctl para conexion a internet facil, Hasta aqui mi reporte joaquin volvemos al estudio 
