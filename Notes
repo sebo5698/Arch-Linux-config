@@ -2,7 +2,7 @@ English:
 Window manager: i3
 Screenshots: flameshot
 Bar: polybar
-program runner: drun
+program runner: rofi
 Emails: thunderbird
 Media player: VLC
 Web browser: Firefox
@@ -16,12 +16,20 @@ Terminal: lxterminal
 Shell:Zsh
 music: spotyfi
 record screen: simple screen recorder
+passwordmanager: Bitwarden
+filemanager: pcmanfm/ranger
+disk manager: filelight
+Compress files: ark
+Office: libreoffice
+icons : papirus
 Notes:
 Remember If you have a problem with icons not displaying in zsh change the font last time that fixed the problem.
 When you install arch remember to do not assign more space to home than / that was a bruh moment
 network ctl for graphical connection to internet.
 use ZSH default font.
 use nerd font next time.
+use papirus icons
+if pacman syu fails for corrupted files use pacman -Sy archlinux-keyring; pacman -Syu
 Espanol:
 Administrador de ventanas: i3
 Capturas de pantalla: flameshot
@@ -39,12 +47,19 @@ Anime: ani-cli
 Terminal: lxterminal
 grabar: simple screen recorder
 shell:zsh
-Music:spotify
-
+Musica:spotify
+Contrasenas: bitwarden
+Explorador de archivos: pcmanfm/ranger
+Archivos comprimidos:ark
+discos:filelight
+oficina:libreoffice
+iconos: papirus
 Notas:
 Recuerda si tienes problema con los iconos en zsh cambia la fuente eso arregla el problema.
 cuando isntales arch recuerda no asignar poco espacio a / y mucho a home eso fue un momento XD. 
 network ctl para conexion a internet facil
 Recuerda utilizar la fuente que te da zsh como recomendada
 fuente nerd la siguiente vez que eso facilita
+pon iconos papirus
+recuerda si te falla pacman syu usa pacman -Sy archlinux-keyring; pacman -Syu
 Hasta aqui mi reporte tulio volvemos al estudio. 
