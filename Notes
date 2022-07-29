@@ -2,6 +2,7 @@ English:
 Window manager: i3
 Screenshots: flameshot
 Bar: polybar
+program runner: drun
 Emails: thunderbird
 Media player: VLC
 Web browser: Firefox
@@ -14,13 +15,18 @@ Entretainment: ani-cli
 Terminal: lxterminal
 Shell:Zsh
 music: spotyfi
-
+record screen: simple screen recorder
 Notes:
-Remember If you have a problem with icons not displaying in zsh change the font last time that fixed the problem, When you install arch remember to do not assign more space to home than / that was a bruh moment, network ctl for graphical connection to internet
+Remember If you have a problem with icons not displaying in zsh change the font last time that fixed the problem.
+When you install arch remember to do not assign more space to home than / that was a bruh moment
+network ctl for graphical connection to internet.
+use ZSH default font.
+use nerd font next time.
 Espanol:
 Administrador de ventanas: i3
 Capturas de pantalla: flameshot
 Barra de tareas: polybar
+Ejecutor de aplicaciones: rofi
 Correos electronicos: Thunderbird
 Reproductor de video: VLC
 Navegador: Firefox
@@ -31,8 +37,14 @@ Editor de codigo: VScode/NVim
 Fondo de pantalla: Feh
 Anime: ani-cli
 Terminal: lxterminal
+grabar: simple screen recorder
 shell:zsh
 Music:spotify
 
 Notas:
-Recuerda si tienes problema con los iconos en zsh cambia la fuente eso arregla el problema, cuando isntales arch recuerda no asignar poco espacio a / y mucho a home eso fue un momento XD, y por ultimo network ctl para conexion a internet facil, Hasta aqui mi reporte joaquin volvemos al estudio 
+Recuerda si tienes problema con los iconos en zsh cambia la fuente eso arregla el problema.
+cuando isntales arch recuerda no asignar poco espacio a / y mucho a home eso fue un momento XD. 
+network ctl para conexion a internet facil
+Recuerda utilizar la fuente que te da zsh como recomendada
+fuente nerd la siguiente vez que eso facilita
+Hasta aqui mi reporte tulio volvemos al estudio. 
