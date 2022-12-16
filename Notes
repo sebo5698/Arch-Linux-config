@@ -25,7 +25,8 @@ icons : papirus
 Notes:
 Remember If you have a problem with icons not displaying in zsh change the font last time that fixed the problem.
 When you install arch remember to do not assign more space to home than / that was a bruh moment
-network ctl for graphical connection to internet.
+network ctl for graphical connection to internet. Nvim config is hard af just check a tutorial in youtube I copied most of the code from a tutorial
+its almost impossible to do it specially to configure it to code by yourself.
 use ZSH default font.
 use nerd font next time.
 use papirus icons
@@ -62,4 +63,7 @@ Recuerda utilizar la fuente que te da zsh como recomendada
 fuente nerd la siguiente vez que eso facilita
 pon iconos papirus
 recuerda si te falla pacman syu usa pacman -Sy archlinux-keyring; pacman -Syu
+la configuracion de Nvim es un dolor en las pelotas, la mayoria de la configuracion que anadi en esta vercion 
+fue sacada de un tutorial de youtube mucho cuidado es un pedote configurarlo para programar correctamente, en un futuro si actualizo
+mi laptop con arch ni en pedo uso neovim para programar, mi recomendacion usen sudo pacman -S code
 Hasta aqui mi reporte tulio volvemos al estudio. 
